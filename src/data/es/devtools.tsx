@@ -5,7 +5,7 @@ export default {
   title: "DevTools",
   description:
     "React Hook Form DevTools para ayudar a depurar formularios con validación.",
-  install: "Installation",
+  install: "Instalación",
   step1: (
     <>
       <b className={typographyStyles.note}>Paso 1: </b>Instalar en pc{" "}
